@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou o @santannaflaercio
+- 👀 Estou interessado em compartilhar o meu conhecimento através de projetos pessoais
+- 🌱 Atualmente estou estudando sobre engenharia de dados, análise de dados e machine learning
+- 💞️ Eu estou buscando contribuir em projetos open source
+- 📫 Para entrar em contato, mande um "oi" no privado @santannaflaercio
+- ⚡ Fato engraçado: O nome do meu cachorro se chama **Bug**
