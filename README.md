@@ -4,8 +4,8 @@
 
 👋🏼 Olá, meu nome é Laércio, sou analista de sistemas, desenvolvedor backend e engenheiro de dados.
 
-- 📗Formado em Sistemas de Informação na Unisul
-- 📗Cursando Gestão de Projetos na Conquer Business School
+- 🎓Formado em Sistemas de Informação na Unisul
+- 📚Cursando Gestão de Projetos na Conquer Business School
 
 # 💻 Technologies & Tools
 
