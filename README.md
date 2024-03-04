@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoWidth=15&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/copilot-000000?style=for-the-badge&logoWidth=15&logo=githubcopilot&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/code-007ACC?style=for-the-badge&logoWidth=15&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logoWidth=15&logo=powershell&logoColor=white)
 
 ## ⭐GitHub Stats
 
