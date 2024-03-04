@@ -1,4 +1,4 @@
-# Perfil Profissional
+# Perfil
 
 👋🏼 Olá, eu sou o Laércio!
 
@@ -6,11 +6,15 @@
 
 ### Formação Acadêmica
 - 📚Cursando Gestão de Projetos na Conquer Business School
-- 🎓Graduado em Sistemas de Informação na Unisul
+- 🎓Graduado em Sistemas de Informação na Unisul (2020)
 
 ### Experiências Profissionais
 - 🫱🏼‍🫲🏼 Neoway (2021-2023)
 - 🫱🏼‍🫲🏼 Predictus (2019-2021)
 
 # 💻 Technologies & Tools
+
+[Technology](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+# ⭐GitHub Stats
 
