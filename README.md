@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoWidth=15&logoColor=white)](https://www.linkedin.com/in/laercio-sfilho)
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoWidth=15&logoColor=white)](https://laerciosantanna.medium.com)
 
-<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png?_gl=1*i1wx2f*_ga*MTAxODE3OTU2MC4xNzA5NTc5NjYy*_ga_M13FZ7VQ2C*MTcwOTU3OTY2MS4xLjEuMTcwOTU4MDAxMi42MC4wLjA." width="200" height="35">
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4UWJCG)
 
 👋🏼 Olá, eu sou o Laércio!
 
