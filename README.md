@@ -10,11 +10,11 @@
 - 🎓Graduado em Sistemas de Informação na Unisul (2020)
 
 ### Experiências Profissionais
-- 🫱🏼‍🫲🏼 Neoway (2024-)
-- 🫱🏼‍🫲🏼 Neoway (2021-2023)
-- 🫱🏼‍🫲🏼 Predictus (2019-2021)
+- 🫱🏼‍🫲🏼 Neoway (2024 - )
+- 🫱🏼‍🫲🏼 Neoway (2021 - 2023)
+- 🫱🏼‍🫲🏼 Predictus (2019 - 2021)
 
-## 💻 Technologies and Tools
+## 💻 Ferramentas e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoWidth=15&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoWidth=15&logoColor=white)
@@ -30,6 +30,3 @@
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoWidth=15&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoWidth=15&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/copilot-000000?style=for-the-badge&logoWidth=15&logo=githubcopilot&logoColor=white)
-
-## ⭐GitHub Stats
-
