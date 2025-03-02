@@ -10,7 +10,7 @@
 - 🎓Graduado em Sistemas de Informação na Unisul (2020)
 
 ### Experiências Profissionais
-- 🫱🏼‍🫲🏼 Neoway (2024 - )
+- 🫱🏼‍🫲🏼 Predictus (2024 - Atual)
 - 🫱🏼‍🫲🏼 Neoway (2021 - 2023)
 - 🫱🏼‍🫲🏼 Predictus (2019 - 2021)
 
